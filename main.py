@@ -13,7 +13,7 @@ while list1 !=[]:
     matrix.append(list1[:4])
     list1 = list1[4:]
 
-#
+
 
 def zero(board):
    global empty_space
